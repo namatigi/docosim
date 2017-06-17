@@ -6,5 +6,5 @@
  * Time: 12:58
  */
 
-echo "pull request";
+echo phpinfo();
 
